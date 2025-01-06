@@ -13,10 +13,10 @@
     justify-content: center;
     flex-wrap: wrap; /* Allows menu items to wrap on smaller screens */
 }
+
 p {
-     font-size: 24px;
-     line-height: 1.5; /* Increase the line spacing between paragraphs */
-     
+	font-size: 24px;
+	line-height: 1.5; /* Increase the line spacing between paragraphs */
 }
 .story{
 	text-indent: 50px;
@@ -34,7 +34,7 @@ li {
 
 /* General Text Styles */
 h1 {
-    text-align: right;
+    text-align: center;
 	font-size: 50px;
 }
 
