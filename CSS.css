@@ -13,9 +13,9 @@
     justify-content: center;
     flex-wrap: wrap; /* Allows menu items to wrap on smaller screens */
 }
-p{
-	    font-size: 24px;
-		line-height: 1.5; /* Increase the line spacing between paragraphs */
+p {
+     font-size: 24px;
+     line-height: 1.5; /* Increase the line spacing between paragraphs */
 }
 .story{
 	text-indent: 50px;
